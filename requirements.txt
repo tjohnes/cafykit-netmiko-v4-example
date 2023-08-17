@@ -1,0 +1,26 @@
+netmiko @ git+https://github.com/cafykit/netmiko-v4.git
+# netmiko @ git+https://github.com/tjohnes/netmiko-v4.git@TJ-invalid-config
+deepdiff
+dpkt
+elasticsearch
+graphviz
+inflection
+JSON-log-formatter
+jtextfsm
+lxml
+ncclient
+netaddr
+networkx
+pexpect
+pykwalify
+pymongo
+pytest
+python-logstash
+PyYAML
+requests
+rstr
+stormssh
+tabulate
+textfsm
+validators
+xmltodict
